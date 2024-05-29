@@ -30,6 +30,7 @@ function App() {
 
   return (
     <div className="App">
+      <h1>Ultra Nation</h1>
       <h1>Country loaded: {countries.length}</h1>
       <h4>Country added: {cart.length}</h4>
 
